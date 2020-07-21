@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDFTron Demo</string>
+    <string name="pdftron_methods">PDFTron Methods</string>
+    <string name="open_from_internet">Open from Internet</string>
+    <string name="open_using_uri">Open Using URI</string>
+    <string name="open_from_asset">Open from Asset</string>
+    <string name="open_from_storage">Open From Storage</string>
+</resources>
